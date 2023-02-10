@@ -19,3 +19,6 @@ doc/
 rack.pid
 .sass-cache
 unidic
+
+.DS_Store
+Thumbs.db
